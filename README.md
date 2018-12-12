@@ -25,3 +25,19 @@ netflixData.movie().then(res => {
   console.log({e})
 })
 ```
+
+## Available Methods
+Return full list of Netflix Movies
+```
+netflixData.movie()
+```
+
+Return full list of Netflix Tv Shows
+```
+netflixData.tvshows()
+```
+
+Return full list of Netflix documentaries
+```
+netflixData.doc()
+```

@@ -13,7 +13,7 @@ npm install netflix-unofficial-api --save
 const netflixUnofficialApi = require("netflix-unofficial-api");
 const myApiToken = '123412341234';
 const netflixData = new netflixData(myApiToken);
-netflixData.competitions().then(res => {
+netflixData.movie().then(res => {
   console.log({res})
 }).catch(e => {
   console.log({e})

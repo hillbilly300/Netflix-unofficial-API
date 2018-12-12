@@ -5,7 +5,7 @@ class searchableAPI {
     constructor(token) {
         this.instance = axios.create({
             baseURL: 'http://api.searchablelist.com/',
-            headers: { 'X-Auth-Token': token }
+            headers: { 'x-access-token': token }
         });
     }
 

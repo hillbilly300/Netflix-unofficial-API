@@ -1,6 +1,6 @@
 {
   "name": "netflix-unofficial-api",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "🎥 Netflix Movie, TV Shows & Doc Database 🍿 Powered by Searchablelist.com",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,9 @@
     "url": "git+https://github.com/MrDatastorage/Netflix-unofficial-API.git"
   },
   "keywords": [
-    "netflix-unofficial-api"
+    "netflix-unofficial-api",
+    "netflix",
+    "api"
   ],
   "author": "Searchablelist.com & Victor Nizeyimana",
   "license": "ISC",

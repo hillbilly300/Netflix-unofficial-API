@@ -4,7 +4,7 @@ const querystring = require('querystring');
 class searchableAPI {
     constructor(token) {
         this.instance = axios.create({
-            baseURL: 'http://api.searchablelist.com/',
+            baseURL: 'https://api.searchablelist.com/',
             headers: { 'x-access-token': token }
         });
     }

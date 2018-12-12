@@ -7,6 +7,12 @@ The Netflix unofficial movie, tv shows and documentaries database.
 ```
 npm install netflix-unofficial-api --save
 ```
+
+## Token Access
+```
+Request access token from api@searchablelist.com with subject: Token ~ Auto response with token key
+```
+
 ## Basic usage
 
 ```

@@ -1,6 +1,6 @@
 {
   "name": "netflix-unofficial-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "🎥 Netflix Movie, TV Shows & Doc Database 🍿 Powered by Searchablelist.com",
   "main": "index.js",
   "scripts": {
